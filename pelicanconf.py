@@ -5,7 +5,7 @@ AUTHOR = 'WR'
 SITENAME = 'BotPlex'
 SITEURL = ''
 
-THEME = "~/Documents/Projects/Blog/botplex.github.io/Flex"
+THEME = "/home/valilutzik/pelican-themes/Flex"
 
 PATH = 'content'
 
